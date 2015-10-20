@@ -1,5 +1,10 @@
 package excersises;
 
+/*
+* Moves zeroes of the array to the end
+* of the array.
+*/
+
 import java.util.Arrays;
 public class MoveZeroes {
 	public static void moveZeroes(int[] nums) {
